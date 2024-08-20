@@ -1,0 +1,148 @@
+# Logfile created on 2024-04-09 12:45:25 -0600 by logger.rb/v1.6.0
+[2024-04-09 12:45:25] INFO  (setup): Loaded file demo/MARK_traqueids/params.yml
+[2024-04-09 12:45:25] INFO  (setup): Outputting to directory /Users/spiritusanti/phyloGenerator2/demo/MARK_traqueids/
+[2024-04-09 12:45:25] INFO  (setup): Using email address santiago.ramirez@ib.unam.mx
+[2024-04-09 12:45:25] INFO  (setup): Beginning download
+[2024-04-09 12:45:25] INFO  (SeqDownload_0): Beginning search for rbcL
+[2024-04-09 12:45:25] INFO  (SeqDownload_1): Beginning search for atpB
+[2024-04-09 12:45:25] INFO  (SeqDownload_2): Beginning search for matK
+[2024-04-09 12:54:20] INFO  (SeqDownload_1): 103/173 sequences found
+[2024-04-09 12:55:53] INFO  (SeqDownload_0): 146/173 sequences found
+[2024-04-09 12:59:22] INFO  (SeqDownload_2): 145/173 sequences found
+[2024-04-09 12:59:22] INFO  (setup): Download complete
+[2024-04-09 12:59:22] INFO  (setup): Beginning phylogeny search
+[2024-04-09 12:59:23] INFO  (PhyloGen_0): Beginning alignment
+[2024-04-09 12:59:23] WARN  (PhyloGen_0): Warning: duplicated sequences - Ginkgo_biloba_rbcL.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Drimys_granadensis_atpB.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Pseudowintera_colorata_atpB.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Tasmannia_lanceolata_atpB.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Sarcandra_glabra_atpB.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Trochodendron_aralioides_atpB.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Cycas_clivicola_atpB.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Cycas_media_atpB.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Cycas_revoluta_atpB.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Cycas_rumphii_atpB.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Stangeria_eriopus_atpB.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Zamia_furfuracea_atpB.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Araucaria_araucana_atpB.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Afrocarpus_falcatus_atpB.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Dacrydium_cupressinum_atpB.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Halocarpus_bidwillii_atpB.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Lepidothamnus_intermedius_atpB.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Manoao_colensoi_atpB.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Phyllocladus_aspleniifolius_atpB.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Podocarpus_nubigenus_atpB.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Podocarpus_salignus_atpB.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Prumnopitys_andina_atpB.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Actinostrobus_pyramidalis_atpB.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Athrotaxis_cupressoides_atpB.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Austrocedrus_chilensis_atpB.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Callitris_rhomboidea_atpB.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Cunninghamia_lanceolata_atpB.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Cupressus_lusitanica_atpB.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Cupressus_sempervirens_atpB.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Fitzroya_cupressoides_atpB.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Juniperus_scopulorum_atpB.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Libocedrus_chevalieri_atpB.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Pilgerodendron_uviferum_atpB.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Sequoia_sempervirens_atpB.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Taxodium_mucronatum_atpB.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Sciadopitys_verticillata_atpB.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Austrotaxus_spicata_atpB.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Taxus_brevifolia_atpB.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Taxus_globosa_atpB.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Abies_religiosa_atpB.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Cathaya_argyrophylla_atpB.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Cedrus_deodara_atpB.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Keteleeria_davidiana_atpB.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Picea_engelmannii_atpB.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Pinus_jaliscana_atpB.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Quercus_rubra_atpB.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Lavandula_angustifolia_atpB.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Nymphaea_odorata_atpB.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Ginkgo_biloba_atpB.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Welwitschia_mirabilis_atpB.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Cyathea_lepifera_atpB.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Pteridium_aquilinum_atpB.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Helianthus_annuus_atpB.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Caryota_mitis_atpB.fasta
+[2024-04-09 12:59:35] WARN  (PhyloGen_0): Warning: duplicated sequences - Ochroma_pyramidale_atpB.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Amborella_trichopoda_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Drimys_granadensis_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Pseudowintera_colorata_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Tasmannia_lanceolata_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Sarcandra_glabra_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Trochodendron_aralioides_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Cycas_clivicola_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Cycas_media_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Cycas_rumphii_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Araucaria_araucana_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Araucaria_columnaris_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Araucaria_nemorosa_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Araucaria_subulata_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Afrocarpus_falcatus_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Dacrydium_cupressinum_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Halocarpus_bidwillii_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Lepidothamnus_intermedius_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Manoao_colensoi_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Phyllocladus_aspleniifolius_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Podocarpus_nubigenus_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Podocarpus_salignus_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Saxegothaea_conspicua_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Actinostrobus_pyramidalis_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Austrocedrus_chilensis_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Callitris_rhomboidea_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Calocedrus_decurrens_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Chamaecyparis_lawsoniana_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Cryptomeria_japonica_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Cunninghamia_lanceolata_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Cupressus_benthamii_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Cupressus_lusitanica_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Cupressus_sempervirens_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Fitzroya_cupressoides_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Juniperus_communis_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Juniperus_scopulorum_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Libocedrus_chevalieri_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Metasequoia_glyptostroboides_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Pilgerodendron_uviferum_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Sequoia_sempervirens_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Taxodium_mucronatum_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Thuja_plicata_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Widdringtonia_nodiflora_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Sciadopitys_verticillata_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Austrotaxus_spicata_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Taxus_brevifolia_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Taxus_globosa_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Ginkgo_biloba_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Abies_alba_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Abies_concolor_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Abies_religiosa_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Cathaya_argyrophylla_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Cedrus_deodara_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Keteleeria_davidiana_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Larix_occidentalis_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Picea_engelmannii_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Pinus_jaliscana_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Pinus_strobus_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Pinus_uncinata_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Tsuga_heterophylla_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Quercus_rubra_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Lavandula_angustifolia_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Nymphaea_odorata_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Ginkgo_biloba_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Welwitschia_mirabilis_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Cyathea_lepifera_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Ceratophyllum_demersum_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Helianthus_annuus_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Caryota_mitis_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Liriodendron_chinense_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Ochroma_pyramidale_matK.fasta
+[2024-04-09 12:59:43] WARN  (PhyloGen_0): Warning: duplicated sequences - Ephedra_distachya_matK.fasta
+[2024-04-09 12:59:52] INFO  (PhyloGen_0): Alignment complete
+[2024-04-09 12:59:52] INFO  (PhyloGen_0): Beginning concatenation
+[2024-04-09 12:59:52] INFO  (PhyloGen_0): Concatenation complete
+[2024-04-09 12:59:52] INFO  (PhyloGen_0): Beginning phylogeny search
+[2024-04-09 16:14:58] INFO  (PhyloGen_0): Phylogeny search complete
+[2024-04-09 16:14:58] INFO  (setup): Phylogeny search complete
+[2024-04-09 16:14:58] INFO  (setup): Beginning cleanup
+[2024-04-09 16:14:59] INFO  (setup): Cleanup complete

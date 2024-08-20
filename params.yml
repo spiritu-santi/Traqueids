@@ -1,0 +1,52 @@
+# Parameter file for phyloGenerator2
+#Species list
+species: /Users/spiritusanti/phyloGenerator2/demo/MARK_traqueids/species.txt
+working_dir: /Users/spiritusanti/phyloGenerator2/demo/MARK_traqueids/
+email: santiago.ramirez@ib.unam.mx
+
+######################
+#DNA DOWNLOAD#########
+######################
+
+genes:
+#  rbcL:
+#    ref_file: /Users/spiritusanti/phyloGenerator2/demo/MARK_traqueids/rbcL_reference.fasta
+#    ref_min: 400
+#    ref_max: 1600
+#    gap_length: 20
+#    max_gaps: 10
+#    max_dwn: 10
+#  atpB:
+#    ref_file: /Users/spiritusanti/phyloGenerator2/demo/MARK_traqueids/atpB_reference.fasta
+#    ref_min: 400
+#    ref_max: 1800
+#    gap_length: 20
+#    max_gaps: 10
+#    max_dwn: 10
+#  matK:
+#    ref_file: /Users/spiritusanti/phyloGenerator2/demo/MARK_traqueids/matK_reference.fasta
+#    ref_min: 400
+#    ref_max: 2500
+#    gap_length: 20
+#    max_gaps: 10
+#    max_dwn: 10
+ ndhf:
+    ref_file: /Users/spiritusanti/phyloGenerator2/demo/MARK_traqueids/ndhf_reference.fasta
+    ref_min: 400
+    ref_max: 3000
+    gap_length: 20
+    max_gaps: 10
+    max_dwn: 10
+      
+######################
+#OPTIONS##############
+######################
+phy_method: raxml
+phylo_args: -f a -N autoMRE -x 123456 # Do 1000 rapid bootsrap searches, using random number seed 123456 (RAxML) - note that passing $RANDOM should produce a random number on a UNIX machine
+#Whether to perform secondary check of sequences
+#hawkeye: true
+#partition: true
+#Specify a folder containing sequences never to download again (e.g., output from a Hawkeye run)
+#exclude_folder: /Users/spiritusanti/phyloGenerator2/demo/MARK_traqueids/
+#Specify a file containing accession numbers never to download again
+#exclude_file: /Users/spiritusanti/phyloGenerator2/demo/MARK_traqueids/exclude_file.txt
