@@ -6,7 +6,7 @@ All versions of the trees (incl. ML and dated trees) are kept, but the final tre
 
 The latest version of the dated trees (treePL) was further edited for analysis:
 - v.3.2 is the tree with angiosperms and ferns 'pruned-out'.
-- v.3.3 is the pruned tree with two species grafted into the tree.
+- v.3.3 is the pruned tree (v.3.2) with two unsampled species grafted into the tree. These two species have no molecular data for inclusion in the alingment.
   - 'Zamia_soconuscensis' grafted as sister to the remaining (sampled) species in the genus. 
      - the position below the MRCA of sampled 'Zamia' (point of attachment of new branch) was determined as the mean of the length of all terminal branches gennus.
   - 'Dioon_planifolium' grafted as sister to 'Dioon_holmgrenii'. 
