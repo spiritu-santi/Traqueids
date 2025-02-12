@@ -1,14 +1,22 @@
-treefile = RAxML_bipartitions.Traqueids_v3_RENAMED.tree
-smooth = 0.0001
-numsites = 4918
+treefile = RAxML_bipartitions.Traqueids_v5.tre
+smooth = 0.0000001
+numsites = 4952
 
 mrca = ROOT Pteridium_aquilinum Araucaria_nemorosa
 min = ROOT 450
 max = ROOT 450
 
-mrca = Angiosperms Caryota_mitis Nymphaea_odorata
+mrca = Angiosperms Caryota_mitis Amborella_trichopoda
 min = Angiosperms 134
 max = Angiosperms 154
+
+mrca = Eudictos Ceratophyllum_demersum Pectis_prostrata
+min = Eudictos 127.2
+max = Eudictos 154
+
+mrca = Proteales Roupala_montana Pectis_prostrata
+min = Eudictos 100.5
+max = Eudictos 154
 
 mrca = Gy01 Juniperus_deppeana Cupressus_benthamii
 min = Gy01 33.9
@@ -66,16 +74,16 @@ mrca = Gy14 Phyllocladus_alpinus Lepidothamnus_laxifolius
 min = Gy14 33.9
 max = Gy14 400
 
-outfile = treePL_Gymnosperms.v2.trees
+outfile = treePL_Gymnosperms.v5.1.trees
 #prime
 thorough
 #cv
-randomcv
-cvstart = 10
-cvstop = 0.00001
-opt = 2
-optad = 2
-moredetailad
+#randomcv
+#cvstart = 1
+#cvstop = 0.00000001
+opt = 1
+moredetail
+optad = 1
 optcvad = 5
 moredetailcvad
 
