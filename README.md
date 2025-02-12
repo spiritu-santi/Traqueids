@@ -1,8 +1,10 @@
 # Traqueids
 
 All versions of the trees (incl. ML and dated trees) are kept, but the final trees used should always be the latest version:
-- v5 for RAxML trees (February 11, 2025).
-- v5.* for treePL trees (February 11, 2025).
+- v3.* for RaxML files and v4.* for treePL files have a reduced sampling of species including mostly gymnosperms.
+- Posterior versions have an extended sampling within angiosperms.
+  - v5 for RAxML trees (February 11, 2025).
+  - v5.* for treePL trees (February 11, 2025).
 
 The latest version of the dated trees (treePL) was further edited for analysis:
 - v.5.1 tree with species with molecular data.
