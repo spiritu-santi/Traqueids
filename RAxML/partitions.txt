@@ -1,3 +1,0 @@
-DNA, rbcL = 1-1431
-DNA, atpB = 1432-2978
-DNA, matK = 2979-4918
