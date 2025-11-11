@@ -4,13 +4,13 @@ END;
 BEGIN CODONS;
 CODONPOSSET * CodonPositions =
  N:,
- 1: 1-4999\3,
- 2: 2-5000\3,
- 3: 3-4998\3;
+ 1: 1-5026\3,
+ 2: 2-5024\3,
+ 3: 3-5025\3;
 CODESET  * UNTITLED = Universal: all ;
 END;
 BEGIN SETS;
-charset RBCL= 1-1429;
-charset ATPB= 1430-2977;
-charset MATK= 2978-5000;
+charset RBCL=;
+charset ATPB=;
+charset ATPB=;
 END;
