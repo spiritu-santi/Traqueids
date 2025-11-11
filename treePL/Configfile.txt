@@ -1,0 +1,195 @@
+treefile = Traqueids_v6.2.3.raxml.bestTree.tree
+smooth = 0.0000001
+numsites = 5285
+
+mrca = ROOT Pteridium_aquilinum Araucaria_nemorosa
+min = ROOT 450
+max = ROOT 450
+
+mrca = Angios330 Caryota_mitis Amborella_trichopoda
+min = Angios330 132.1
+max = Angios330 154
+
+mrca = Angios164 Austrobaileya_scandens Trimenia_moorei
+min = Angios164 132.1
+max = Angios164 154
+
+mrca = Angios05 Canella_winterana Drimys_winteri
+min = Angios05 125
+max = Angios05 154
+
+mrca = Angios113 Idiospermum_australiense Palmeria_scandens
+min = Angios113 107.7
+max = Angios113 154
+
+mrca = Angios10 Liriodendron_chinense Annona_leptopetala
+min = Angios10 113
+max = Angios10 154
+
+mrca = Angios121 Caryota_mitis Acorus_calamus
+min = Angios121 113
+max = Angios121 154
+
+mrca = Angios123 Caryota_mitis Anthurium_scandens
+min = Angios123 72.1
+max = Angios123 154
+
+mrca = Angios179 Hedyosmum_mexicanum Ascarina_lucida
+min = Angios179 123
+max = Angios179 154
+
+mrca = Angio358 Ceratophyllum_demersum Pectis_prostrata
+min = Angio358 127.2
+max = Angio358 154
+
+mrca = Angios189 Roupala_montana Persoonia_falcata
+min = Angios189 72.1
+max = Angios189 154
+
+mrca = Angio252 Xanthostemon_chrysanthus Eucalyptus_pulchella
+min = Angio252 56
+max = Angio252 154
+
+mrca = Angios127 Dypsis_lutescens Bactris_mexicana
+min = Angios127 63.49
+max = Angios127 154
+
+mrca = Angios194 Bocconia_arborea Pectis_prostrata
+min = Angios194 110.8
+max = Angios194 154
+
+mrca = Angios325 Bocconia_arborea Pectis_prostrata
+min = Angios325 100.5
+max = Angios325 154
+
+### mrca = Angios262 Hibbertia_juncea Dillenia_alata
+### min = Angios262 47.8
+### max = Angios262 154
+
+mrca = Angios264 Trichostigma_octandrum Guapira_noxia
+min = Angios264 72.1
+max = Angios264 154
+
+mrca = Angios265 Rumex_crispus Nepenthes_khasiana
+min = Angios265 66
+max = Angios265 154
+
+mrca = Angios337 Ximenia_americana Cornus_alternifolia
+min = Angios337 80.7
+max = Angios337 154
+
+mrca = Angios267 Cornus_alternifolia Hydrangea_macrophylla
+min = Angios267 86.3
+max = Angios267 154
+
+mrca = Angios287 Symplocos_reflexa Erica_cinerea
+min = Angios287 86.3
+max = Angios287 154
+
+mrca = Angios314 Dendropanax_arboreus Polyscias_murrayi
+min = Angios314 41.2
+max = Angios314 154
+
+mrca = Angios317 Cirsium_conspicuum Artemisia_absinthium
+min = Angios317 47.46
+max = Angios317 154
+
+mrca = Angios319 Scaevola_beckii Goodenia_ovata
+min = Angios319 23.03
+max = Angios319 154
+
+mrca = Angios319 Scaevola_beckii Goodenia_ovata
+min = Angios319 23.03
+max = Angios319 154
+
+mrca = Angios294 Aspidosperma_pyrifolium Asclepias_subulata
+min = Angios294 48.5
+max = Angios294 154
+
+mrca = Angios233 Ficus_variegata Artocarpus_altilis
+min = Angios233 47.8
+max = Angios233 154
+
+mrca = Angios215 Nothofagus_pumilio Quercus_alba
+min = Angios215 86.3
+max = Angios215 154
+
+mrca = Angios353 Fagus_sylvatica Quercus_alba
+min = Angios353 37.8
+max = Angios353 154
+
+mrca = Angios220 Clusia_rosea Garcinia_intermedia
+min = Angios220 37.8
+max = Angios220 154
+
+mrca = Gy01 Juniperus_deppeana Cupressus_benthamii
+min = Gy01 33.9
+max = Gy01 400
+
+mrca = Gy02 Cycas_revoluta Ginkgo_biloba
+min = Gy02 272.95
+max = Gy02 400
+
+mrca = Gy03 Agathis_ovata Podocarpus_elatus
+min = Gy03 201.3
+max = Gy03 400
+
+mrca = Gy04 Agathis_ovata Araucaria_nemorosa
+min = Gy04 166.1
+max = Gy04 400
+
+mrca = Gy05 Cedrus_deodara Ephedra_distachya
+min = Gy05 307
+max = Gy05 400
+
+mrca = Gy06 Zamia_furfuracea Cycas_media
+min = Gy06 251.9
+max = Gy06 400
+
+mrca = Gy07 Taxus_brevifolia Juniperus_thurifera
+min = Gy07 199.3
+max = Gy07 400
+
+#mrca = Gy11 Taxus_brevifolia Juniperus_thurifera
+#min = Gy11 145
+#max = Gy11 400
+
+mrca = Gy08 Zamia_prasina Dioon_edule
+min = Gy08 152.1
+max = Gy08 400
+
+mrca = Gy09 Bowenia_spectabilis Zamia_prasina
+min = Gy09 113
+max = Gy09 400
+
+mrca = Gy10 Pinus_rigida Picea_engelmannii
+min = Gy10 132.9
+max = Gy10 400
+
+#mrca = Gy12 Pinus_rigida Agathis_ovata
+#min = Gy12 152.1
+#max = Gy12 400
+
+mrca = Gy13 Podocarpus_elatus Retrophyllum_minus
+min = Gy13 33.9
+max = Gy13 400
+
+mrca = Gy14 Phyllocladus_alpinus Lepidothamnus_laxifolius
+min = Gy14 33.9
+max = Gy14 400
+
+outfile = treePL_Traqueids.v6.2.trees
+#prime
+thorough
+#cv
+#randomcv
+#cvstart = 1
+#cvstop = 0.00000001
+opt = 1
+moredetail
+optad = 1
+optcvad = 5
+moredetailcvad
+
+
+
