@@ -1,0 +1,16 @@
+BEGIN ASSUMPTIONS;
+EXSET * UNTITLED  = ;
+END;
+BEGIN CODONS;
+CODONPOSSET * CodonPositions =
+ N:,
+ 1: 1-5293\3,
+ 2: 2-5294\3,
+ 3: 3-5292\3;
+CODESET  * UNTITLED = Universal: all ;
+END;
+BEGIN SETS;
+charset RBCL= 1-1429;
+charset ATPB= 1430-2986;
+charset MATK= 2987-5294;
+END;
