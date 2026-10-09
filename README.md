@@ -1,5 +1,7 @@
 # Traqueids
-Phylogenetic data used in Olson et al. (under review).  
+Phylogenetic trees and fossil data used to produce the time calibrated trees used in:  
+- Olson et al. (under review) Stem water transport as shaped by leaf size across the world’s woody plants.
+  
 
 The data provided include the secuence alingment of three plastid regions, the partition scheme and topological constraints used for the ML reconstruction, and the complete list of species used for all analyses. 
 
@@ -10,7 +12,7 @@ All versions of the trees (incl. ML and dated trees) are kept, but the final tre
 The latest version of the dated trees (treePL) was further edited for analysis. Intermediate versions are stored, but only the latest is used for subsequent analyses:
 - treePL_Traqueids.v6.2.5.trees
 
-Refer to the list of fossils available at [Virtual Fomration](https://github.com/spiritu-santi/Virtual-Formation) for the calibrarion used for dating:
+Refer to the list of fossils available at [Virtual Formation](https://github.com/spiritu-santi/Virtual-Formation) for the calibrarion used for dating:
 - AngiospermMember.csv for angiosperm fossils.
 - GymnospermMember.csv for gymnopserm fossils.
 The calibration codes in treePL's **Configfile.txt** refer to the fossil code provided in both lists (*NFos*).
